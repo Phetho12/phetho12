@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I’m Phetho 👩🏽‍💻</h1>
 <p align="center">
-  Web Developer ⚡ Electrical Engineering Student 🎓 Hackathon Addict 💡
+  Web Developer ⚡ Electrical Engineering Student⚡  Hackathon wanna be(i want to partake in one)💡
 </p>
 
 ---
@@ -15,7 +15,7 @@ I'm a multidisciplinary problem solver mixing **code, culture**, and **circuit b
 ---
 
 ### ✨ Design Specialties
-- 🎨 Web Design (HTML, CSS, PHP)
+- 🎨 Web Design beginner (HTML, CSS, PHP)
 - 🔌 Electrical Systems & Prototyping
 - 🧠 UX Thinking with Accessibility in Mind
 - ⚙️ Creative Code Meets Real-World Impact
@@ -25,7 +25,7 @@ I'm a multidisciplinary problem solver mixing **code, culture**, and **circuit b
 ### 🎨 Aesthetic & Tools I Love
 <img src="https://img.shields.io/badge/-Figma-EFDEF4?style=flat&logo=figma&logoColor=black"/>
 <img src="https://img.shields.io/badge/-VSCode-EBD8F4?style=flat&logo=visualstudiocode&logoColor=black"/>
-<img src="https://img.shields.io/badge/-Adobe%20XD-FCEBF1?style=flat&logo=adobeXD&logoColor=black"/>
+
 
 > 🪄 I live for pastel palettes, pixel art accents, and clean typography that breathes.
 
