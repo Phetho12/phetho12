@@ -1,5 +1,6 @@
 <!-- Custom Pastel Banner -->
-![Banner](https://your-pastel-pixel-banner-url.gif)
+![Banner](https://i.pinimg.com/originals/6a/8e/4d/6a8e4d2b450f10d3733422efc4e95526.gif)
+
 
 <h1 align="center">Hi, I’m Phetho 👩🏽‍💻</h1>
 <p align="center">
